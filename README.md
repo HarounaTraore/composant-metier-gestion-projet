@@ -1,6 +1,6 @@
 # Gestion des Projets
 
-Ce projet consiste à implementer un système de gestion des projets en programation orientée objet (POO) et avec express en se basant sur le diagramme de classe pre-établis.
+Ce projet consiste à implementer les composants métiers d'un système de gestion des projets en programation orientée objet (POO) et avec express en se basant sur le diagramme de classe pre-établis.
 
 ## Prérequis
 
